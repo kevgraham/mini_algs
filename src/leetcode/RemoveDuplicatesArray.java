@@ -1,3 +1,5 @@
+package leetcode;
+
 public class RemoveDuplicatesArray {
 
     public static void main(String[] args) {
