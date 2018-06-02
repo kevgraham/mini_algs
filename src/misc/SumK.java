@@ -1,4 +1,4 @@
-package daily_challenge;
+package misc;
 
 import java.util.HashSet;
 

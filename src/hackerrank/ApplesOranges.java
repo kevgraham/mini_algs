@@ -1,4 +1,4 @@
-package misc;
+package hackerrank;
 
 public class ApplesOranges {
 
@@ -11,7 +11,6 @@ public class ApplesOranges {
         countApplesAndOranges(7, 11, 5, 15, apples, oranges);
 
     }
-
 
     /**
      * Prints the number of apples and oranges that fell on the house
