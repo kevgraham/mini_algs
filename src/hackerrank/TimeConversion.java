@@ -14,9 +14,11 @@ public class TimeConversion {
         int hour = Integer.parseInt(s.substring(0, 2));
         boolean pm = s.indexOf("PM") > 0;
 
-        if (pm && hour > 12) {
+        if (pm && hour != 12) {
             hour += 12;
-        } else if (!pm && hour == 12) {
+        }
+
+        if (!pm && hour == 12) {
             hour = 0;
         }
 
