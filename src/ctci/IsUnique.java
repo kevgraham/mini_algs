@@ -2,7 +2,7 @@ package ctci;
 
 import java.util.HashSet;
 
-public class StringUniqueChars {
+public class IsUnique {
 
     public static void main(String[] args) {
         System.out.println(isUnique("Hello")); // false
