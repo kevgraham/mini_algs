@@ -28,5 +28,5 @@ public class ConsecutiveOnes {
 
         return max;
     }
-    
+
 }
