@@ -1,0 +1,1 @@
+This repository is for practicing algorithm problems for technical interviews
